@@ -1,5 +1,5 @@
 # CollectCharger
-A Mac reminder app written in Python3 to remind you about collecting your charger before you leave your workplace.
+A Mac reminder app written in Python3 to remind you to collect your charger before you leave your workplace.
 
 # Introduction
 How often do you forget your charger (or any other item) at your workplace only to regret later? I have a pretty bad habit of forgetting my mobile charger at my desk which I only come to know about when I am in the cab on my way back home. I even once forgot to take my charger with me before leaving for a week long trip to Manali :smile:  
