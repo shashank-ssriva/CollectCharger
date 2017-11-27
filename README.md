@@ -9,7 +9,7 @@ This script is written for Mac only but can be easily customised for any other L
 # Usage
 To run it, just copy the Python script to a directory & tuck it inside a Cron job. I leave my workplace at 14:30, so I set the Cron job as : - 
 ```bash
-15 14 * * 1-5 /usr/local/bin/python3 /Users/admin/Desktop/PythonScripts/ChargerCollect.py >/Users/admin/Desktop/reminder_cronout.log 2>/Users/admin/Desktop/reminder_error.lo
+15 14 * * 1-5 /usr/local/bin/python3 /Users/admin/Desktop/PythonScripts/ChargerCollect.py >/Users/admin/Desktop/reminder_cronout.log 2>/Users/admin/Desktop/reminder_error.log
 ```
 
 This notifies me to collect my charger at 14:15 :-)
