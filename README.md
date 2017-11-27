@@ -18,7 +18,7 @@ To run it, just copy the Python script to a directory & tuck it inside a Cron jo
 15 14 * * 1-5 /usr/local/bin/python3 /Users/admin/Desktop/PythonScripts/ChargerCollect.py >/Users/admin/Desktop/reminder_cronout.log 2>/Users/admin/Desktop/reminder_error.log
 ```
 
-This notifies me to collect my charger at 14:15 :-)
+This notifies me to collect my charger at 14:15 :blush:
 
 # Acknowledgement
 I took some help from below Stack Overflow answer by [Peter Varo](https://stackoverflow.com/users/2188562/peter-varo).
