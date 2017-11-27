@@ -18,4 +18,4 @@ This notifies me to collect my charger at 14:15 :-)
 I took some help from below Stack Overflow answer by [Peter Varo](https://stackoverflow.com/users/2188562/peter-varo).
 https://stackoverflow.com/questions/17651017/python-post-osx-notification
 
-Thanks Peter (*if you are reading this*) for your answer! If there is any other way to say thanks or credit you, please let me know!
+Thanks Peter (*if you are reading this*) for your answer! If there is any other way to say thanks or give credit to your answer, please let me know!
