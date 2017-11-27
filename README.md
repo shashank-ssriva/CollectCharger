@@ -6,6 +6,12 @@ How often do you forget your charger (or any other item) at your workplace only 
 So today, I wrote a tiny Python script which runs in the background and sends me a reminder at a particular time by popping up a system notification along-with a beep & speaking it out loud :satisfied:  
 This script is written for Mac only but can be easily customised for any other Linux based OS.
 
+# Requirements
+This script depends on ``terminal-notifier`` to display system notification. To install it, issue...
+```bash
+admin@shashank-mbp ~> brew install terminal-notifier
+```
+
 # Usage
 To run it, just copy the Python script to a directory & tuck it inside a Cron job. I leave my workplace at 14:30, so I set the Cron job as : - 
 ```bash
