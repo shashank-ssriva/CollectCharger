@@ -2,8 +2,8 @@
 A Mac reminder app written in Python3 to remind you about collecting your charger before you leave your workplace.
 
 # Introduction
-How often do you forget your charger (or any other item) at your workplace only to regret later? I have a pretty bad habit of forgetting my mobile charger at my desk which I only come to know about when I am in the cab on my way back home. I even forgot to take my charger with me before leaving for a week long trip to Manali :smile:  
-Today, I wrote a tiny Python script which runs in the background and sends me a reminder at a particular time by popping up a system notification along-with a beep & speaking it out loud :satisfied:  
+How often do you forget your charger (or any other item) at your workplace only to regret later? I have a pretty bad habit of forgetting my mobile charger at my desk which I only come to know about when I am in the cab on my way back home. I even once forgot to take my charger with me before leaving for a week long trip to Manali :smile:  
+So today, I wrote a tiny Python script which runs in the background and sends me a reminder at a particular time by popping up a system notification along-with a beep & speaking it out loud :satisfied:  
 This script is written for Mac only but can be easily customised for any other Linux based OS.
 
 # Usage
